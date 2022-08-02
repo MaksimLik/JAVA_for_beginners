@@ -1,3 +1,4 @@
+package Probny;
 import java.util.Scanner;
 
 public class Calculator {
